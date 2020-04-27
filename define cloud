@@ -1,0 +1,28 @@
+A cloud technology can bee defined as any (resource)service on rent.
+The rent we pay  is only for the service we use, since there is no locking period.
+
+we can have different types of cloud servies and there are more than one types of cloud.
+namely
+1) public cloud
+2) private cloud
+3) hibrid cloud( it is the mixture of both public and private cloud.)
+
+public cloud: any one can use this, may that be a individual or any  organization example, schools or companies.
+
+private cloud: owned by single organization.
+
+most popular cloud vendors are 
+1) Amazon--> AWS
+2) Microsoft--> Azure
+3) Google--> GCP(google cloud as platform)
+
+Advantages:
+
+There are number of advantages which we can discuss here, but to make this simple and short we will discuss ec2-user in detail.
+
+ec2-user is the virtual laptop, where we can choose the config. depending upon the requreiment, and we can rent the services which we need,
+and have to pay on hourly basis depending upon the use.
+
+if we do not need any services we can stop the instances and we just have to pay for the volume of the storage which is in use.
+
+Dynamically able to upscale and downscale the config. is a huge plus to any organization and having all this available at any point of the world at any time is a bless.
